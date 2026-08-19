@@ -27,7 +27,7 @@ The objective is to identify sales trends, profitability patterns, regional/cate
 
 ## Dashboard
 
-![Retail Sales Dashboard](Dashboard.png)
+Deshboard.png
 
 ## Analysis Approach
 
